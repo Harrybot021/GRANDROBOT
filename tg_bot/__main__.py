@@ -150,7 +150,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                                  ]]))
 
     else:
-        update.effective_message.reply_text("Hey! I am still Alive.")
+        update.effective_message.reply_text("Hey! I am still Alive.🔱")
 
 
 def send_start(bot, update):
